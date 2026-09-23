@@ -19,7 +19,7 @@
     "@zoltra-toolkit/node": "^0.1.0-alpha.2",
     "bcrypt": "^6.0.0",
     "jsonwebtoken": "^9.0.2",
-    "nodemailer": "^7.0.3",
+    "nodemailer": "^10.0.10",
     "zoltra": "^0.1.0-alpha.3"
   },
   "devDependencies": {
