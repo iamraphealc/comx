@@ -20,7 +20,8 @@
     "bcrypt": "^6.0.0",
     "jsonwebtoken": "^9.0.2",
     "nodemailer": "^10.0.10",
-    "zoltra": "^0.1.0-alpha.3"
+    "zoltra": "^0.1.0-alpha.3",
+    "resend": "^6.28.1"
   },
   "devDependencies": {
     "@jest/globals": "^30.0.3",
